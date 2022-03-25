@@ -1,0 +1,2 @@
+Goldmine :Input issue
+Count encoding 90 tc(4) issue 
